@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ic_card/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>146</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27234-10563</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ic_card</ExpandedNode><ExpandedNode>ic_card/DHT11.C</ExpandedNode><ExpandedNode>ic_card/IC_w_r.c</ExpandedNode><ExpandedNode>ic_card/Output</ExpandedNode><ExpandedNode>ic_card/UART.c</ExpandedNode><ExpandedNode>ic_card/delay.c</ExpandedNode><ExpandedNode>ic_card/main.c</ExpandedNode><ExpandedNode>ic_card/main.c/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12513-13705</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-23346-26987</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IC_w_r.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>824</SelStart><SelEnd>824</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rc522.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1622</SelStart><SelEnd>1622</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IC_w_r.c</Filename><XPos>0</XPos><YPos>655</YPos><SelStart>18740</SelStart><SelEnd>18740</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>198</YPos><SelStart>4138</SelStart><SelEnd>4138</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\variable.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>58</SelStart><SelEnd>58</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>688</SelStart><SelEnd>715</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>177</SelStart><SelEnd>177</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>165</SelStart><SelEnd>165</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\delay.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\&#x5F00;&#x53D1;&#x8F6F;&#x4eF6;\IAR\8051\inc\ioCC2530.h</Filename><XPos>0</XPos><YPos>147</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\&#x5F00;&#x53D1;&#x8F6F;&#x4eF6;\IAR\8051\src\lib\dlib\main.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\&#x5F00;&#x53D1;&#x8F6F;&#x4eF6;\IAR\8051\inc\clib\string.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\&#x5F00;&#x53D1;&#x8F6F;&#x4eF6;\IAR\8051\inc\clib\stdarg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\&#x5F00;&#x53D1;&#x8F6F;&#x4eF6;\IAR\8051\inc\clib\stdio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\LCD.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>20</SelStart><SelEnd>20</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05be2000><key>iaridepm.enu1</key></Toolbar-05be2000></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>772</Bottom><Right>220</Right><x>-2</x><y>-2</y><xscreen>73</xscreen><yscreen>63</yscreen><sizeHorzCX>48408</sizeHorzCX><sizeHorzCY>66246</sizeHorzCY><sizeVertCX>147215</sizeVertCX><sizeVertCY>813880</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>134</Bottom><Right>1510</Right><x>-2</x><y>-2</y><xscreen>1512</xscreen><yscreen>136</yscreen><sizeHorzCX>1002653</sizeHorzCX><sizeHorzCY>143007</sizeHorzCY><sizeVertCX>48408</sizeVertCX><sizeVertCY>66246</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
